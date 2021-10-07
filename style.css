@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap');
+
+h1 { 
+    font-family: 'Kaushan Script';
+    color: #F8F9FA;
+  }
+  h4 {
+    color: #cccccc;
+  }
+
+  ul {
+    color: #DEE2E6;
+  }
+
+  body {
+    background-color: #343A40;
+    font-family: Cinzel;
+  }
+
+  p {
+    color: #ADB5BD;
+    font-family: Cinzel;
+  }
+  .final-description{
+      color: #6C757D;
+      font-style: italic;
+  }
