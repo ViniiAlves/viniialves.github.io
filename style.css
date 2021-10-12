@@ -3,6 +3,7 @@
 
 h1 { 
     font-family: 'Kaushan Script';
+    font-size: 40px;
     color: #F8F9FA;
   }
   h4 {
@@ -11,6 +12,7 @@ h1 {
 
   ul {
     color: #DEE2E6;
+    font-size: 18px;
   }
 
   body {
@@ -21,6 +23,7 @@ h1 {
   p {
     color: #ADB5BD;
     font-family: Cinzel;
+    font-size: 20px;
   }
   .final-description{
       color: #6C757D;
